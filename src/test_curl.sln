@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_curl", "test_curl\test_curl.vcproj", "{DFC1DBC0-47D6-4441-A054-2C4FFEC9A11E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "curl_proxy", "curl_proxy\curl_proxy.vcproj", "{3C5F4809-5ACA-4C33-8308-2A72A3F96680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC1DBC0-47D6-4441-A054-2C4FFEC9A11E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DFC1DBC0-47D6-4441-A054-2C4FFEC9A11E}.Debug|Win32.Build.0 = Debug|Win32
+		{DFC1DBC0-47D6-4441-A054-2C4FFEC9A11E}.Release|Win32.ActiveCfg = Release|Win32
+		{DFC1DBC0-47D6-4441-A054-2C4FFEC9A11E}.Release|Win32.Build.0 = Release|Win32
+		{3C5F4809-5ACA-4C33-8308-2A72A3F96680}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C5F4809-5ACA-4C33-8308-2A72A3F96680}.Debug|Win32.Build.0 = Debug|Win32
+		{3C5F4809-5ACA-4C33-8308-2A72A3F96680}.Release|Win32.ActiveCfg = Release|Win32
+		{3C5F4809-5ACA-4C33-8308-2A72A3F96680}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
